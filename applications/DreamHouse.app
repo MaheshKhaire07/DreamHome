@@ -4,7 +4,6 @@
         <headerColor>#84BF41</headerColor>
         <logo>dreamhouselogosquare</logo>
         <logoVersion>1</logoVersion>
-        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
     <description>DreamHouse helps you connect with your Customers in a whole new way.</description>
     <formFactors>Large</formFactors>
